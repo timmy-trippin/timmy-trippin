@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I enjoy building responsive websites, web applications, and mobile applications while continuously learning modern technologies and software development practices. I'm always looking for opportunities to improve my skills, collaborate with others, and build solutions that create real value.
+I enjoy building responsive websites, web applications, and mobile applications while continuously learning modern technologies and software development practices. <!-- I'm always looking for opportunities to improve my skills, collaborate with others, and build solutions that create real value. -->
 
 ---
 
@@ -28,6 +28,6 @@ I enjoy building responsive websites, web applications, and mobile applications 
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://timmy-trippin.github.io/Personal-Portfolio/
+<!-- - 🌐 Portfolio: https://timmy-trippin.github.io/Personal-Portfolio/ -->
 - 💼 LinkedIn: https://linkedin.com/in/jayneil-pagalunan
 - 📧 Email: pagalunanjayneil@gmail.com
