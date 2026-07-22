@@ -20,7 +20,7 @@ I enjoy building responsive websites, web applications, and mobile applications 
 
 # Frameworks, Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,vite,wordpress,supabase,postgres,mysql,git,github,docker,figma,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,vite,wordpress,supabase,postgres,mysql,git,github,figma,vercel)](https://skillicons.dev)
 
 > WooCommerce • Elementor • Cursor • Claude Code • OpenAI Codex • AntiGravity • Canva
 
