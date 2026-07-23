@@ -20,7 +20,7 @@ I enjoy building responsive websites, web applications, and mobile applications 
 
 # Frameworks, Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,vite,wordpress,supabase,postgres,mysql,git,github,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,wordpress,supabase,postgres,mysql,git,github,figma,vercel)](https://skillicons.dev)
 
 > WooCommerce • Elementor • Cursor • Claude Code • OpenAI Codex • AntiGravity • Canva
 
@@ -28,6 +28,6 @@ I enjoy building responsive websites, web applications, and mobile applications 
 
 ## 📫 Connect With Me
 
-<!-- - 🌐 Portfolio: https://timmy-trippin.github.io/Personal-Portfolio/ -->
+- 🌐 Portfolio: https://jaynpgln.vercel.app/
 - 💼 LinkedIn: https://linkedin.com/in/jayneil-pagalunan
 - 📧 Email: pagalunanjayneil@gmail.com
